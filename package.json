@@ -1,0 +1,23 @@
+{
+  "name": "uinput",
+  "version": "1.0.0",
+  "description": "universal input on react.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TilianT/Uinput.git"
+  },
+  "keywords": [
+    "input",
+    "react"
+  ],
+  "author": "Tilian T",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TilianT/Uinput/issues"
+  },
+  "homepage": "https://github.com/TilianT/Uinput#readme"
+}
